@@ -42,7 +42,7 @@ User: {question}
 """)
 
 context = """
-Sathwik Reddy Chelemela is a graduate student at Northeastern University, Boston, pursuing a Master of Science in Information Systems with a GPA of 3.72/4.0. He holds a BTech in Electronics and Communication Engineering from SRM University AP, India.
+Sathwik Reddy Chelemela is a graduate student at Northeastern University, Boston, pursuing a Master of Science in Information Systems with a GPA of 3.758/4.0. He holds a BTech in Electronics and Communication Engineering from SRM University AP, India.
 
 He has hands-on experience in AI, machine learning, data engineering, cloud computing, and full-stack development. He is currently seeking roles in AI Engineering, Data Science, or MLOps.
 
